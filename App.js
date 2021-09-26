@@ -7,7 +7,7 @@ export default function App() {
 
   return (
     <View style={{flex:1, justifyContent: "center", alignItems: "center"}}>
-      <Text style={{fontSize:30}}>Cualquier otra cosa</Text>
+      <Text style={{fontSize:30}}>La fer no sisgnifico nada en tu vida papi, besos en el llollopo</Text>
     </View>
   );
 }
